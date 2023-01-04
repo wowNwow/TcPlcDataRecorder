@@ -1,0 +1,10 @@
+D:\002_C#\DeleteFiles\DeteleFiles\DeteleFiles\bin\Debug\DeteleFiles.exe.config
+D:\002_C#\DeleteFiles\DeteleFiles\DeteleFiles\bin\Debug\DeteleFiles.exe
+D:\002_C#\DeleteFiles\DeteleFiles\DeteleFiles\bin\Debug\DeteleFiles.pdb
+D:\002_C#\DeleteFiles\DeteleFiles\DeteleFiles\obj\Debug\DeteleFiles.csproj.CoreCompileInputs.cache
+D:\002_C#\DeleteFiles\DeteleFiles\DeteleFiles\obj\Debug\DeteleFiles.exe
+D:\002_C#\DeleteFiles\DeteleFiles\DeteleFiles\obj\Debug\DeteleFiles.pdb
+D:\002_C#\DeleteFiles\DeteleFiles\DeteleFiles\bin\Debug\TwinCAT.Ads.dll
+D:\002_C#\DeleteFiles\DeteleFiles\DeteleFiles\bin\Debug\TwinCAT.Ads.xml
+D:\002_C#\DeleteFiles\DeteleFiles\DeteleFiles\obj\Debug\DeteleFiles.csproj.CopyComplete
+D:\002_C#\DeleteFiles\DeteleFiles\DeteleFiles\obj\Debug\DeteleFiles.csproj.AssemblyReference.cache
